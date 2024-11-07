@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web3 Projects<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React.js<br>💬 Ask me about<br>⚡ Fun fact 
+🔭 I’m currently working on Web3 Projects<br>🎓 I’m currently studying at Quezon City University<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning React.js<br> 
 
 
 ## 🌐 Socials:
