@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web3 Projects<br>🎓 I’m currently studying at Quezon City University<br>>🌱 I’m currently learning React.js, TSX<br>✅ I'm interested in creating related to Web3 Projects (Blockchain & Crypto)<br> 
+🔭 I’m currently working on <strong>Web3 Projects</strong><br>🎓 I’m currently studying at <strong>Quezon City University</strong><br>🌱 I’m currently learning React.js, TSX<br>🔥 I'm interested in creating related to <strong>Web3 Projects <i>(Blockchain & Crypto)</i></strong><br> 
 
 
 ## 🌐 Socials:
