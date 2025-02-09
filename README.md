@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Jeian Jasper 👋</h1>
-<h3 align="center">A passionate Frontend Developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **Web Projects**  
 - 🌱 I’m currently learning **React.js, Next.js**  
