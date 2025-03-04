@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jeian Jasper 👋</h1>
+<h1 align="center">Hi, I'm Jaz 👋</h1>
 
 - 🔭 I’m currently working on **Web Projects**  
 - 🌱 I’m currently learning **React.js, Next.js**  
