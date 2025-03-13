@@ -5,7 +5,7 @@
 - 📫 Reach me at **obelidor.jeianjasper@gmail.com**
 
   
-Hi! My name is Jeian Jasper, and I'm a passionate front-end developer dedicated to crafting responsive, user-friendly, and visually appealing web applications. I enjoy bringing designs to life with clean and efficient code, ensuring seamless user experiences. I'm constantly learning and exploring modern technologies like React.js, Next.js, and Tailwind CSS to stay ahead in the ever-evolving web development landscape. I am committed to continuous learning and professional growth, staying ahead of industry trends and embracing new challenges that drive digital transformation. My proactive approach and adaptability allow me to quickly master evolving technologies and deliver innovative solutions tailored to business needs.
+Hi! My name is Jeian Jasper, and I'm a passionate front-end developer dedicated to crafting responsive, user-friendly, and visually appealing web applications. I enjoy bringing designs to life with clean and efficient code, ensuring seamless user experiences. I actively learn and work towards mastering modern technologies, particularly React.js and Next.js, to stay ahead in the fast-changing web development landscape. Dedicated to continuous growth, I stay updated on industry trends and embrace new challenges that foster digital transformation. My proactive approach and adaptability allow me to quickly master evolving technologies and deliver innovative solutions tailored to business needs.
 
 ---
 
