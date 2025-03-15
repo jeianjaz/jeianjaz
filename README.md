@@ -38,8 +38,8 @@ Hi! My name is Jeian Jasper, and I'm a passionate front-end developer dedicated 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
+</a>
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" style="margin-right: 10px;"/>
   </a>
