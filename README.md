@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Jaz 👋</h1>
+![Header](https://capsule-render.vercel.app/api?type=blur&color=0:43cea2,100:185a9d&height=150&text=Hi,%20I'm%20Jeian&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=Web%20Developer&descSize=30&descAlignY=85&section=header)
+
 
 - 🔭 I’m currently working on **Web Projects**  
 - 🌱 I’m currently learning **React.js, Next.js**  
@@ -12,7 +13,7 @@ Hi! My name is Jeian Jasper Obelidor, and I'm a passionate front-end developer d
 ### Here are the tools, libraries, technologies, and frameworks I've worked with:  
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,redux,jest,figma,firebase,supabase,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,redux,jest,figma,firebase,supabase,git,github,notion)](https://skillicons.dev)
 
 
 ###  Connect with Me:
