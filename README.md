@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=blur&color=0:43cea2,100:185a9d&height=150&text=Hi,%20I'm%20Jeian&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=Web%20Developer&descSize=30&descAlignY=85&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&text=Hi,%20I'm%20Jeian&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Web%20Developer&descSize=30&descAlignY=85&section=header)
 
 
 - 🔭 I’m currently working on **Web Projects**  
