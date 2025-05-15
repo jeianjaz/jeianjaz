@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **Web Projects**  
-- 🌱 I’m currently learning **React.js, Next.js**  
+- 🌱 I’m  familiarizing myself with **React.js, Next.js**  
 - 📫 Reach me at **obelidor.jeianjasper@gmail.com**
 
   
