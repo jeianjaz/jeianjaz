@@ -20,7 +20,7 @@ Dedicated to continuous growth, I stay updated on industry trends and embrace ne
 
 ### Here are the tools, libraries, technologies, and frameworks I've worked with:  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,aws,linux,bash,docker,kubernetes,terraform,ansible,githubactions,gitlab,gcp,supabase,git,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,aws,linux,bash,docker,kubernetes,terraform,ansible,githubactions,gitlab,gcp,supabase,git,github,notion)](https://skillicons.dev)
 
 ###  Connect with Me:
 
