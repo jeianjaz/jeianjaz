@@ -1,4 +1,4 @@
-![Jeian Jasper Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Jeian%20Jasper&section=header&reversal=true&textBg=false&fontColor=0&fontSize=50&fontAlign=50&animation=twinkling&desc=Cloud%20and%20Data%20Engineer&descAlign=50&descAlignY=61&stroke=FFFFFF&fontAlignY=41).
+![Jeian Jasper Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Jeian%20Jasper&section=header&reversal=true&textBg=false&fontColor=0&fontSize=50&fontAlign=50&animation=twinkling&desc=Cloud%20/%20DevOps%20Engineer&descAlign=50&descAlignY=61&stroke=FFFFFF&fontAlignY=41).
 
 
 Hi! Just call me **Jaz** ^_^
